@@ -1,4 +1,6 @@
-##Full stack- problem 
+
+
+### Full stack- problem 
 
 - get average Price of the stock
 
